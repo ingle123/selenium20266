@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-03T18:33:14 IST" name="Default suite" finished-at="2026-03-03T18:33:27 IST" duration-ms="13431">
+    <groups>
+    </groups>
+    <test started-at="2026-03-03T18:33:14 IST" name="Default test" finished-at="2026-03-03T18:33:27 IST" duration-ms="13431">
+      <class name="testclass.TestDemo">
+        <test-method is-config="true" signature="open()[pri:0, instance:testclass.TestDemo@41a2befb]" started-at="2026-03-03T18:33:14 IST" name="open" finished-at="2026-03-03T18:33:21 IST" duration-ms="7921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="test()[pri:0, instance:testclass.TestDemo@41a2befb]" started-at="2026-03-03T18:33:21 IST" name="test" finished-at="2026-03-03T18:33:22 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testclass.TestDemo@41a2befb]" started-at="2026-03-03T18:33:22 IST" name="close" finished-at="2026-03-03T18:33:27 IST" duration-ms="5169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testclass.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
